@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eswarpeddinti98
-- 👀 I’m interested in Data Analytics and Cloud Technologies
-- 🌱 I learnt R,Sql,Linux,Spreadsheets,Excel,Tableau
+- 👀 I’m interested in Data and Cloud Technologies
+- 🌱 I learnt R,Sql,Linux,Spreadsheets,Excel,Tableau,Python
 - 💞️ I’m looking to collaborate on data analytics projects to learn.
 - 📫 How to reach me ...
 
